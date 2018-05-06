@@ -1,0 +1,9 @@
+title = "Brain Age: Concentration Training"
+description = "Brain Age: Concentration Training is a puzzle video game, it's the forth installment of the series and exclusively made for the Nintendo 3DS. it tests your 'brain age' based on how well you perform exercises like but not limited to addition, subtraction, memory and more."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000000B3C00"
+region = "usa"
+release_date = "2013-02-10"
