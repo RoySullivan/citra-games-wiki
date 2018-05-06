@@ -25,7 +25,7 @@ release_date = "2013-09-05"
 
 [[ testcases ]]
 title = "00040000000B3C00"
-compatibility = "1"
+compatibility = "2"
 date = "2018-06-05"
 version = "HEAD-2763adf"
 author = "bio3c"
