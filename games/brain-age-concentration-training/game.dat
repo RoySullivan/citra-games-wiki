@@ -22,3 +22,13 @@ release_date = "2012-07-28"
 title = "00040000000CB100"
 region = "kor"
 release_date = "2013-09-05"
+
+[[ testcases ]]
+title = "00040000000B3C00"
+compatibility = "1"
+date = "2018-06-05"
+version = "HEAD-2763adf"
+author = "bio3c"
+cpu = "Phenom II X4 810"
+gpu = "XFX HD 6750 GDDR3 1GB"
+os = "Windows 7"
